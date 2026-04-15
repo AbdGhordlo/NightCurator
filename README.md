@@ -1,5 +1,7 @@
 # NightCurator — Psychological Horror Game
 
+![Main Hall](Pics/Main%20Hall.png)
+
 ## 🎮 Game Overview
 *NightCurator* is a first-person psychological horror game where you play as a night security guard assigned to monitor a mysterious museum.
 
@@ -40,6 +42,8 @@ An ancient Egyptian statue emitting disturbing whispers.
 - Attach it to your flashlight
 - Shine UV light on the statue for 5 seconds
 
+![Whispering Statue](Pics/Whispering%20Statue.png)
+
 ---
 
 ### 🎵 Ancient Gramophone
@@ -48,6 +52,8 @@ Normally plays piano music but may switch to distorted audio.
 **Solution:**
 - Find the correct vinyl record
 - Replace the current disc
+
+![Ancient Gramophone](Pics/Ancient%20Gramophone.png)
 
 ---
 
@@ -58,6 +64,8 @@ Moves when not observed.
 - Locate a laptop
 - Activate CCTV monitoring to freeze it
 
+![Angel Statue](Pics/Angel%20Statue.png)
+
 ---
 
 ### ⚔️ Knight
@@ -66,6 +74,8 @@ Aggressively chases the player.
 **Solution:**
 - Find the King’s Crown
 - Place it near the banner to pacify the Knight
+
+![Knight](Pics/Knight.png)
 
 ---
 
@@ -79,6 +89,8 @@ Aggressively chases the player.
   - Pots & Warrior Artifacts
 - Guard Post (safe zone)
 
+![Map](Pics/Map.png)
+
 ---
 
 ## 🧭 User Interface
@@ -89,10 +101,14 @@ Aggressively chases the player.
 - Credits
 - Exit
 
+![Main Menu](Pics/Main%20Menu.png)
+
 ### Pause Menu
 - Resume
 - Restart
 - Main Menu
+
+![Pause Menu](Pics/Pause%Menu.png)
 
 ### Settings
 - Master Volume
