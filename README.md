@@ -116,13 +116,6 @@ Aggressively chases the player.
 
 ---
 
-## 🚀 Getting Started
-1. Clone the repository
-2. Open the project in your game engine (e.g., Unity)
-3. Run the game
-
----
-
 ## 👤 Project Members: 
 - Abdallah Ghordlo
 - Fevzi Berk Çeliktaş
