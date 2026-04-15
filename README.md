@@ -42,7 +42,7 @@ An ancient Egyptian statue emitting disturbing whispers.
 - Attach it to your flashlight
 - Shine UV light on the statue for 5 seconds
 
-![Whispering Statue](Pics/Whispering%20Statue.png)
+![Whispering Statue](Pics/Whispering%20Statue.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ Normally plays piano music but may switch to distorted audio.
 - Find the correct vinyl record
 - Replace the current disc
 
-![Ancient Gramophone](Pics/Ancient%20Gramophone.png)
+![Ancient Gramophone](Pics/Ancient%20Gramophone.jpg)
 
 ---
 
@@ -64,7 +64,7 @@ Moves when not observed.
 - Locate a laptop
 - Activate CCTV monitoring to freeze it
 
-![Angel Statue](Pics/Angel%20Statue.png)
+![Angel Statue](Pics/Angel%20Statue.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Aggressively chases the player.
 - Find the King’s Crown
 - Place it near the banner to pacify the Knight
 
-![Knight](Pics/Knight.png)
+![Knight](Pics/Knight.jpg)
 
 ---
 
@@ -101,14 +101,14 @@ Aggressively chases the player.
 - Credits
 - Exit
 
-![Main Menu](Pics/Main%20Menu.png)
+![Main Menu](Pics/Main%20Menu.jpg)
 
 ### Pause Menu
 - Resume
 - Restart
 - Main Menu
 
-![Pause Menu](Pics/Pause%Menu.png)
+![Pause Menu](Pics/Pause%Menu.jpg)
 
 ### Settings
 - Master Volume
