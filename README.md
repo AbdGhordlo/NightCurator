@@ -108,7 +108,7 @@ Aggressively chases the player.
 - Restart
 - Main Menu
 
-![Pause Menu](Pics/Pause%Menu.jpg)
+![Pause Menu](Pics/Pause%20Menu.jpg)
 
 ### Settings
 - Master Volume
